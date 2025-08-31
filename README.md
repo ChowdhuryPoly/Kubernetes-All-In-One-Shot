@@ -250,6 +250,6 @@ This README is a comprehensive guide for "Kubernetes in One Shot." It contains c
 1. **Kube-starter:** [GitHub Repository] (https://github.com/ChowdhuryPoly/Kubernetes-All-In-One.git) 
    A comprehensive starter template for Kubernetes projects.
 
-2. **CI/CD Integration:** [Wanderlust Mega Project](https://github.com/ChowdhuryPoly/Kubernetes-All-In-One.git)  
+2. **CI/CD Integration:**
    Learn Kubernetes CI/CD with Jenkins and ArgoCD.
 
